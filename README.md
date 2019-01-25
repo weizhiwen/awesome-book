@@ -3,7 +3,7 @@
 
 个人觉得电子书和纸质书都有存在的意义，个人阅读平时是两者都看，这里分享个人收藏的电子书籍，质量也都是比较高的（至少都是带目录的）。
 
-用过 kindle 和 iPad看书，最终还是选择了 iPad，觉得 kindle 不适合看技术类的书籍，翻页有点慢，而 ipad 功能更多，翻页效果也更好，带来的阅读体验更加优秀。
+用过 kindle 和 iPad 看书，最终还是选择了 iPad，觉得 kindle 不适合看技术类的书籍，翻页有点慢，而 ipad 功能更多，翻页效果也更好，带来的阅读体验更加优秀。
 
 在 iPad 看书，我平时用 **图书**、**福昕PDF阅读器**、**kindle** 阅读这三个软件，pdf 和 epub 格式的书籍先上传到 iPad的 **图书** 中，pdf 格式的书也可以在 **福昕PDF阅读器** 里面看，mobi 我是用邮箱发送到 kindle 绑定的邮箱里，然后在 kindle 中同步过去，iPad上就可以看了。azw3 格式的书籍可以先发送到手机里，在用 **kindle 阅读** 打开，但是这样就不能同步了。
 
@@ -47,7 +47,7 @@
 
 **Spring**
 
-- 翟永超：《[Spring Cloud微服务实战](./Spring/Spring Cloud微服务实战.mobi)》（mobi）
+- 翟永超：《[Spring Cloud微服务实战](./Spring/SpringCloud微服务实战.mobi)》（mobi）
 
 **区块链**
 
